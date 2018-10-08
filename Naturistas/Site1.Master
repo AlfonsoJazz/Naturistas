@@ -1,0 +1,46 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="Site1.master.cs" Inherits="Naturistas.Site1" %>
+
+<!DOCTYPE html>
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head runat="server">
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+    <title></title>
+    <asp:ContentPlaceHolder ID="head" runat="server">
+        
+    </asp:ContentPlaceHolder>
+    </form>
+</head>
+<body>
+    <form id="form1" runat="server">
+        <div > 
+            <div>
+            <table>
+                <tr>
+                    <td>
+                        <asp:ImageButton runat="server" ID="imgLogo" ImageUrl="~/Recursos/Logo.png" OnClick="Unnamed1_Click"></asp:ImageButton>
+                    </td>
+                </tr>
+            </table>
+            <table align="right">                
+                <tr>
+                    <td>
+                        <asp:Button ID="btnVentas" runat="server" Text="Ventas" OnClick="btnVentas_Click" />
+                    </td>
+                    <td>
+                        <asp:Button ID="btnTrabajadores" runat="server" Text="Trabajadores" OnClick="btnTrabajadores_Click" />
+                    </td>
+                    <td>
+                        <asp:Button ID="btnArticulos" runat="server" Text="Articulos" OnClick="btnArticulos_Click" />
+                    </td>
+                </tr>
+            </table>
+        </div>  
+            <br /> 
+                <asp:ContentPlaceHolder ID="ContentPlaceHolder1" runat="server">
+            
+                </asp:ContentPlaceHolder>  
+        </div>
+    </form>
+</body>
+</html>

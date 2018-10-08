@@ -1,0 +1,12 @@
+c:\users\salinas-ricardo\documents\visual studio 2012\Projects\Naturistas\Naturistas\bin\Naturistas.dll
+c:\users\salinas-ricardo\documents\visual studio 2012\Projects\Naturistas\Naturistas\bin\Naturistas.pdb
+c:\users\salinas-ricardo\documents\visual studio 2012\Projects\Naturistas\Naturistas\obj\Debug\Naturistas.csprojResolveAssemblyReference.cache
+c:\users\salinas-ricardo\documents\visual studio 2012\Projects\Naturistas\Naturistas\obj\Debug\Naturistas.dll
+c:\users\salinas-ricardo\documents\visual studio 2012\Projects\Naturistas\Naturistas\obj\Debug\Naturistas.pdb
+C:\Users\Alfonso Mozko\Desktop\Naturistas 07-12-2017\Naturistas\Naturistas\bin\Naturistas.dll.config
+C:\Users\Alfonso Mozko\Desktop\Naturistas 07-12-2017\Naturistas\Naturistas\bin\Naturistas.dll
+C:\Users\Alfonso Mozko\Desktop\Naturistas 07-12-2017\Naturistas\Naturistas\bin\Naturistas.pdb
+C:\Users\Alfonso Mozko\Desktop\Naturistas 07-12-2017\Naturistas\Naturistas\obj\Debug\Naturistas.csprojResolveAssemblyReference.cache
+C:\Users\Alfonso Mozko\Desktop\Naturistas 07-12-2017\Naturistas\Naturistas\obj\Debug\Naturistas.csproj.CoreCompileInputs.cache
+C:\Users\Alfonso Mozko\Desktop\Naturistas 07-12-2017\Naturistas\Naturistas\obj\Debug\Naturistas.dll
+C:\Users\Alfonso Mozko\Desktop\Naturistas 07-12-2017\Naturistas\Naturistas\obj\Debug\Naturistas.pdb
